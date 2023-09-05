@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Crypto/static/js/main.9620ad92.js",
+    "static/media/Bitcoin.jpeg": "/Crypto/static/media/Bitcoin.febf3b92b6f6de28d1c2.jpeg",
+    "index.html": "/Crypto/index.html",
+    "main.9620ad92.js.map": "/Crypto/static/js/main.9620ad92.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9620ad92.js"
+  ]
+}
